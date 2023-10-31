@@ -1,2 +1,1 @@
-# udemy-react-course
-Udemy React Course
+React course from Udemy - john-smilga/react-coursev3
