@@ -5,6 +5,8 @@
 
 import Example from "./tutorial/04-project-structure/starter/Example.jsx";
 
+import List from "./tutorial/05-leverage-javascript/starter/List.jsx";
+
 // function App() {
 //   return (
 //     <div className="container">
@@ -19,9 +21,10 @@ import Example from "./tutorial/04-project-structure/starter/Example.jsx";
 const App = () => {
   return (
     <div className="container">
-      <Example />
+      {/* <Example /> */}
       <div>
-        <h2>hello</h2>
+        <h2>Leverage Javascript</h2>
+        <List />
       </div>
     </div>
   );
