@@ -1,9 +1,9 @@
-import ControlledInputs from "./tutorial/06-forms/starter/01-controlled-inputs";
-
+import OtherInputs from "./tutorial/06-forms/starter/05-form-data";
 const App = () => {
   return (
     <div className="container">
-      <ControlledInputs />
+      {/* <ControlledInputs /> */}
+      <OtherInputs />
     </div>
   );
 };
